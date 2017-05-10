@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "ed3cd93f-c39e-3776-b353-3b039e2149bd",
+    "name": "Marcusxt",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c73d12b1-7809-3c7d-9e03-e690424c993f",
+    "name": "Izulift",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e6461f1f-015b-3d13-a216-d88dd01b900e",
+    "name": "Trepicado",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c1fc634f-1466-3cf6-aeeb-c78e906fc3b5",
+    "name": "PequenoInfrator",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
