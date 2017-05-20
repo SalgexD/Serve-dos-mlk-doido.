@@ -1,309 +1,83 @@
-[17:36:49] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[17:36:49] [Server thread/INFO]: Loading properties
-[17:36:49] [Server thread/INFO]: Default game type: SURVIVAL
-[17:36:49] [Server thread/INFO]: Generating keypair
-[17:36:50] [Server thread/INFO]: Starting Minecraft server on 192.168.0.5:25565
-[17:36:50] [Server thread/INFO]: Using default channel type
-[17:36:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:36:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:36:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:36:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:36:50] [Server thread/INFO]: Preparing level "world"
-[17:36:50] [Server thread/INFO]: Preparing start region for level 0
-[17:36:52] [Server thread/INFO]: Preparing spawn area: 0%
-[17:36:53] [Server thread/INFO]: Preparing spawn area: 54%
-[17:36:54] [Server thread/INFO]: Done (3,925s)! For help, type "help" or "?"
-[17:36:54] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[17:57:30] [Server thread/INFO]: Trepicado[/179.104.158.18:58064] logged in with entity id 247 at (-28.69999998807907, 184.5, 40.37315326231356)
-[17:57:30] [Server thread/INFO]: Trepicado joined the game
-[17:57:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2441ms behind, skipping 48 tick(s)
-[17:58:11] [Server thread/INFO]: Trepicado lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[17:58:11] [Server thread/INFO]: Trepicado left the game
-[17:58:29] [Server thread/INFO]: PequenoInfrator[/177.191.195.213:62323] logged in with entity id 576 at (-22.47178166645546, 128.0, -6.709553744674675)
-[17:58:29] [Server thread/INFO]: PequenoInfrator joined the game
-[18:00:00] [Server thread/WARN]: PequenoInfrator moved too quickly! -56.27728099375958,-29.0,182.21255883467254
-[18:00:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2061ms behind, skipping 41 tick(s)
-[18:03:48] [Server thread/INFO]: Marcusxt[/187.62.193.171:54003] logged in with entity id 12494 at (-104.23284854501895, 188.0, 265.9662304377488)
-[18:03:48] [Server thread/INFO]: Marcusxt joined the game
-[18:04:01] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.5488418837434,38.0,-212.19999998807904
-[18:04:22] [Server thread/INFO]: Marcusxt fell from a high place
-[18:05:54] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:08:45] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:19:00] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:23:46] [Server thread/INFO]: Marcusxt fell from a high place
-[18:24:41] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:25:00] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:26:32] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:27:02] [Server thread/INFO]: Dipper[/177.191.195.213:52432] logged in with entity id 48519 at (-26.682365248211735, 184.5, 38.29338866455082)
-[18:27:02] [Server thread/INFO]: Dipper joined the game
-[18:27:06] [Server thread/INFO]: Dipper fell from a high place
-[18:27:22] [Server thread/WARN]: Dipper moved too quickly! 100.53549207809533,38.0,-212.39588082105354
-[18:28:41] [Server thread/INFO]: PequenoInfrator fell from a high place
-[18:28:57] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.46717415166891,38.0,-212.14860877403692
-[18:29:01] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[18:29:41] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[18:29:43] [Server thread/WARN]: Dipper moved wrongly!
-[18:32:37] [Server thread/INFO]: Dipper fell out of the world
-[18:32:37] [Server thread/INFO]: [Dipper: Killed Dipper]
-[18:33:24] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:33:34] [Server thread/WARN]: Dipper moved too quickly! 101.34619629877186,38.0,-212.29502487804692
-[18:33:40] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[18:34:43] [Server thread/INFO]: Dipper fell from a high place
-[18:34:51] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:34:58] [Server thread/WARN]: Dipper moved too quickly! 100.57102954394384,38.0,-212.5937517580005
-[18:35:14] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[18:37:28] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:39:04] [Server thread/INFO]: [Marcusxt: Set game difficulty to Peaceful]
-[18:43:42] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[18:44:35] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[18:47:43] [Server thread/WARN]: Dipper moved wrongly!
-[18:47:49] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:48:04] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[18:50:32] [Server thread/INFO]: [Dipper: Teleported Marcusxt to Dipper]
-[18:50:34] [Server thread/INFO]: Izulift[/177.87.11.174:27567] logged in with entity id 151628 at (-101.17165548377336, 183.0, 261.0997910728005)
-[18:50:34] [Server thread/INFO]: Izulift joined the game
-[18:50:48] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:50:56] [Server thread/INFO]: [Dipper: Teleported Marcusxt to Dipper]
-[18:51:07] [Server thread/INFO]: Izulift has just earned the achievement [Cow Tipper]
-[18:51:16] [Server thread/INFO]: <Izulift> man olha o zip zop
-[18:51:17] [Server thread/INFO]: <PequenoInfrator> para de matar
-[18:51:23] [Server thread/INFO]: <PequenoInfrator> as vacas
-[18:51:24] [Server thread/INFO]: Izulift fell from a high place
-[18:51:34] [Server thread/INFO]: <Izulift> só peguei os coros do bau
-[18:51:36] [Server thread/INFO]: <Izulift> animal
-[18:51:39] [Server thread/INFO]: <Izulift> couros*
-[18:51:51] [Server thread/INFO]: <PequenoInfrator> é pq apareceu tombador de vacas
-[18:51:53] [Server thread/INFO]: <Izulift> so vc dropar no chão e pegar
-[18:51:58] [Server thread/INFO]: <Izulift> os couros
-[18:52:04] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[18:52:05] [Server thread/INFO]: <Izulift> que pega o achievement
-[18:52:06] [Server thread/INFO]: Dipper fell from a high place
-[18:53:14] [Server thread/INFO]: Izulift was shot by PequenoInfrator
-[18:53:18] [Server thread/INFO]: <PequenoInfrator> era vc
-[18:53:26] [Server thread/INFO]: <PequenoInfrator> fon achei que era pigman
-[18:53:28] [Server thread/INFO]: <Izulift> n
-[18:53:32] [Server thread/INFO]: <Izulift> era sua mãe
-[18:53:37] [Server thread/INFO]: <Izulift> fdp
-[18:53:40] [Server thread/INFO]: <PequenoInfrator> skaksksasa
-[18:53:54] [Server thread/WARN]: Dipper moved too quickly! 99.60000002384186,38.0,-213.19999998807907
-[18:54:01] [Server thread/INFO]: <Izulift> wut
-[18:54:10] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[18:54:51] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:55:02] [Server thread/INFO]: [Izulift: Teleported Izulift to Marcusxt]
-[18:55:18] [Server thread/INFO]: <Marcusxt> SAI
-[18:55:25] [Server thread/INFO]: <Marcusxt> NOIS VAI SUBIR
-[18:55:26] [Server thread/INFO]: <Marcusxt> o role
-[18:57:07] [Server thread/WARN]: Marcusxt moved wrongly!
-[18:57:25] [Server thread/INFO]: Dipper fell out of the world
-[18:57:25] [Server thread/INFO]: [Dipper: Killed Dipper]
-[18:58:12] [Server thread/INFO]: <Marcusxt> pode descer
-[18:58:27] [Server thread/INFO]: <Marcusxt> só ate aqui
-[18:58:55] [Server thread/INFO]: <Marcusxt> vem pra k
-[18:58:58] [Server thread/INFO]: <Marcusxt> ou fica la em baixo
-[18:59:02] [Server thread/INFO]: <Marcusxt> vo ativar os monstrao
-[18:59:07] [Server thread/INFO]: [Marcusxt: Set game difficulty to Hard]
-[18:59:12] [Server thread/INFO]: <Marcusxt> espera
-[18:59:15] [Server thread/INFO]: <Marcusxt> ainda n
-[18:59:24] [Server thread/INFO]: Izulift was slain by Zombie Pigman
-[18:59:28] [Server thread/INFO]: <Izulift> ops
-[18:59:44] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[18:59:44] [Server thread/INFO]: Dipper was shot by PequenoInfrator
-[18:59:58] [Server thread/WARN]: Dipper moved too quickly! 100.7912107866108,38.0,-212.3833181888621
-[19:00:01] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[19:00:34] [Server thread/INFO]: <Izulift> se os funis eram pra pegar os itens
-[19:00:36] [Server thread/INFO]: <Izulift> deu fail
-[19:00:45] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:00:46] [Server thread/INFO]: [Izulift: Teleported Izulift to Marcusxt]
-[19:00:54] [Server thread/INFO]: <Izulift> tem mt item
-[19:00:56] [Server thread/INFO]: <Izulift> la embaixo
-[19:01:06] [Server thread/WARN]: PequenoInfrator moved wrongly!
-[19:01:11] [Server thread/INFO]: Izulift fell from a high place
-[19:01:33] [Server thread/WARN]: Dipper moved too quickly! 0.6966370585991228,-10.108676530098222,0.7504918918338426
-[19:02:12] [Server thread/INFO]: [Marcusxt: Set game difficulty to Peaceful]
-[19:02:29] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:02:29] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:02:39] [Server thread/INFO]: [Marcusxt: Set game difficulty to Hard]
-[19:04:37] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:04:54] [Server thread/INFO]: PequenoInfrator fell from a high place
-[19:05:12] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.91740903889217,38.0,-212.09385536957694
-[19:05:17] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:05:21] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:05:22] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:06:33] [Server thread/INFO]: Dipper fell from a high place
-[19:06:47] [Server thread/WARN]: Dipper moved too quickly! 100.49422867075324,38.0,-212.63981960292267
-[19:06:49] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[19:07:00] [Server thread/INFO]: [Marcusxt: Set game difficulty to Peaceful]
-[19:08:03] [Server thread/INFO]: [Izulift: Teleported Izulift to Marcusxt]
-[19:08:05] [Server thread/WARN]: Izulift moved too quickly! 0.4849138184269286,-11.558953062305562,0.2864939178252257
-[19:08:07] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:08:19] [Server thread/INFO]: Dipper was slain by PequenoInfrator
-[19:08:36] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[19:08:44] [Server thread/INFO]: Izulift was shot by PequenoInfrator
-[19:08:53] [Server thread/INFO]: Dipper was killed trying to hurt PequenoInfrator
-[19:09:10] [Server thread/INFO]: Izulift was slain by Dipper
-[19:09:10] [Server thread/INFO]: Dipper was slain by Izulift
-[19:09:14] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:09:25] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[19:09:38] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[19:09:39] [Server thread/INFO]: Dipper was shot by PequenoInfrator
-[19:09:52] [Server thread/INFO]: [Izulift: Teleported Izulift to PequenoInfrator]
-[19:09:57] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[19:09:58] [Server thread/INFO]: Dipper was shot by PequenoInfrator
-[19:10:00] [Server thread/INFO]: Izulift was shot by PequenoInfrator
-[19:10:07] [Server thread/INFO]: PequenoInfrator fell out of the world
-[19:10:07] [Server thread/INFO]: [Izulift: Killed PequenoInfrator]
-[19:10:23] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:10:28] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.18103064867954,38.0,-212.18923800997436
-[19:10:29] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:10:38] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:10:42] [Server thread/INFO]: [Izulift: Teleported Izulift to Marcusxt]
-[19:10:52] [Server thread/WARN]: Izulift moved wrongly!
-[19:11:46] [Server thread/INFO]: <Izulift> pão
-[19:12:00] [Server thread/INFO]: <Izulift> KKKKKKKKKKKKKKKK
-[19:12:03] [Server thread/INFO]: <Izulift> KKKKKKKKKKKKKKKKK
-[19:12:04] [Server thread/INFO]: <PequenoInfrator> skaksasasas
-[19:12:04] [Server thread/INFO]: <Izulift> dasdsaijdasiujdasi
-[19:12:06] [Server thread/INFO]: <Izulift> ASIDJASIDaS
-[19:12:15] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:12:15] [Server thread/INFO]: <Izulift> KKKKKKKKKKKKKKK
-[19:12:55] [Server thread/INFO]: Izulift fell from a high place
-[19:14:12] [Server thread/WARN]: Izulift moved wrongly!
-[19:15:16] [Server thread/INFO]: PequenoInfrator fell from a high place
-[19:16:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12369ms behind, skipping 247 tick(s)
-[19:16:07] [Server thread/WARN]: Marcusxt moved too quickly! -9.342255740196517,2.0,3.101602569389655
-[19:16:43] [Server thread/INFO]: [PequenoInfrator: Set own game mode to Creative Mode]
-[19:17:08] [Server thread/WARN]: Dipper moved too quickly! 48.8753785098864,7.0,-169.42023114872734
-[19:17:12] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:17:21] [Server thread/INFO]: Marcusxt was slain by Dipper
-[19:17:21] [Server thread/INFO]: [PequenoInfrator: Set own game mode to Survival Mode]
-[19:17:31] [Server thread/INFO]: Dipper fell out of the world
-[19:17:31] [Server thread/INFO]: [Dipper: Killed Dipper]
-[19:18:03] [Server thread/INFO]: [Marcusxt: Teleported Marcusxt to Izulift]
-[19:18:07] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:18:29] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:18:29] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:18:54] [Server thread/INFO]: Izulift fell from a high place
-[19:18:57] [Server thread/INFO]: Izulift lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:18:57] [Server thread/INFO]: Izulift left the game
-[19:19:04] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:20:18] [Server thread/INFO]: [Marcusxt: Teleported Marcusxt to Dipper]
-[19:20:31] [Server thread/WARN]: Dipper moved wrongly!
-[19:24:42] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:25:18] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:27:41] [Server thread/INFO]: [Marcusxt: Teleported Marcusxt to Dipper]
-[19:28:19] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:31:55] [Server thread/INFO]: [Marcusxt: Set game difficulty to Hard]
-[19:33:20] [Server thread/INFO]: [Marcusxt: Teleported Marcusxt to Dipper]
-[19:33:26] [Server thread/WARN]: PequenoInfrator moved too quickly! 101.12701198139104,38.0,-212.5800717420484
-[19:33:27] [Server thread/INFO]: [PequenoInfrator: Set own game mode to Survival Mode]
-[19:33:30] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:34:28] [Server thread/INFO]: PequenoInfrator fell from a high place
-[19:34:53] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.47548214607703,38.0,-212.56745241789284
-[19:34:55] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:36:18] [Server thread/INFO]: Dipper fell from a high place
-[19:36:34] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:36:53] [Server thread/INFO]: PequenoInfrator was shot by Marcusxt
-[19:37:04] [Server thread/INFO]: Marcusxt fell out of the world
-[19:37:04] [Server thread/INFO]: Killed Marcusxt
-[19:37:21] [Server thread/INFO]: Dipper fell out of the world
-[19:37:21] [Server thread/INFO]: Killed Dipper
-[19:37:30] [Server thread/INFO]: PequenoInfrator fell out of the world
-[19:37:30] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
-[19:37:37] [Server thread/WARN]: Marcusxt moved too quickly! 100.25642409915069,38.0,-212.1038220046659
-[19:37:38] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
-[19:37:38] [Server thread/INFO]: Dipper fell out of the world
-[19:37:38] [Server thread/INFO]: Killed Dipper
-[19:37:54] [Server thread/WARN]: Dipper moved too quickly! 100.31934697572261,38.0,-212.9548150583206
-[19:38:25] [Server thread/INFO]: Dipper was burnt to a crisp whilst fighting Marcusxt
-[19:38:41] [Server thread/WARN]: Dipper moved too quickly! 100.66159658550418,38.0,-212.94075183628624
-[19:39:19] [Server thread/INFO]: Teleported Marcusxt to PequenoInfrator
-[19:40:10] [Server thread/INFO]: Dipper fell out of the world
-[19:40:10] [Server thread/INFO]: [Dipper: Killed Dipper]
-[19:40:15] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[19:40:18] [Server thread/INFO]: Dipper was shot by PequenoInfrator
-[19:40:21] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[19:40:42] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:40:48] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:40:55] [Server thread/INFO]: Dipper was shot by PequenoInfrator
-[19:41:00] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
-[19:41:07] [Server thread/INFO]: Dipper fell from a high place
-[19:41:20] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:41:48] [Server thread/INFO]: [Dipper: Teleported PequenoInfrator to Dipper]
-[19:41:50] [Server thread/INFO]: Dipper fell from a high place
-[19:41:57] [Server thread/INFO]: [Dipper: Teleported PequenoInfrator to Dipper]
-[19:41:59] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:42:30] [Server thread/INFO]: Dipper was slain by PequenoInfrator
-[19:42:33] [Server thread/INFO]: [Dipper: Teleported PequenoInfrator to Dipper]
-[19:42:35] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:42:38] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:42:42] [Server thread/INFO]: Dipper was shot by PequenoInfrator
-[19:42:46] [Server thread/INFO]: [Dipper: Teleported PequenoInfrator to Dipper]
-[19:42:47] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:42:52] [Server thread/INFO]: PequenoInfrator fell out of the world
-[19:42:52] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
-[19:42:53] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:42:55] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:42:59] [Server thread/INFO]: PequenoInfrator fell out of the world
-[19:42:59] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
-[19:43:01] [Server thread/INFO]: Dipper fell from a high place
-[19:43:06] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:43:08] [Server thread/INFO]: [PequenoInfrator: De-opped dipper]
-[19:43:10] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:43:16] [Server thread/INFO]: Dipper was burnt to a crisp whilst fighting PequenoInfrator
-[19:44:21] [Server thread/INFO]: [Marcusxt: Opped Dipper]
-[19:44:23] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:44:26] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:45:33] [Server thread/WARN]: Dipper moved too quickly! 100.90396430646364,38.0,-212.09318237083022
-[19:45:54] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:46:03] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:46:24] [Server thread/INFO]: PequenoInfrator tried to swim in lava
-[19:46:30] [Server thread/INFO]: [PequenoInfrator: De-opped dipper]
-[19:46:32] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:46:35] [Server thread/INFO]: Marcusxt fell from a high place
-[19:46:41] [Server thread/INFO]: [PequenoInfrator: Opped dipper]
-[19:46:42] [Server thread/INFO]: [Marcusxt: Opped Dipper]
-[19:50:37] [Server thread/INFO]: Marcusxt fell from a high place
-[19:51:02] [Server thread/WARN]: Marcusxt moved wrongly!
-[19:51:31] [Server thread/WARN]: PequenoInfrator moved wrongly!
-[19:51:46] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.69258230060841,38.0,-212.08223269987997
-[19:51:50] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:52:16] [Server thread/INFO]: [Dipper: Teleported Dipper to Marcusxt]
-[19:52:37] [Server thread/INFO]: PequenoInfrator was slain by Marcusxt
-[19:52:44] [Server thread/INFO]: Marcusxt fell out of the world
-[19:52:44] [Server thread/INFO]: [PequenoInfrator: Killed Marcusxt]
-[19:53:01] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.04647830023373,38.0,-212.19814414391942
-[19:54:41] [Server thread/INFO]: Dipper was shot by PequenoInfrator
-[19:54:48] [Server thread/INFO]: PequenoInfrator fell out of the world
-[19:54:48] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
-[19:54:54] [Server thread/INFO]: PequenoInfrator fell out of the world
-[19:54:54] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
-[19:54:59] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
-[19:55:02] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
-[19:55:03] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
-[19:55:06] [Server thread/INFO]: Dipper fell out of the world
-[19:55:06] [Server thread/INFO]: Killed Dipper
-[19:55:09] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
-[19:55:28] [Server thread/INFO]: The number you have entered (80000000,50) is too big, it must be at most 30000000
-[19:55:47] [Server thread/INFO]: Teleported Dipper to 8000.5, 50.0, -99.5
-[19:55:47] [Server thread/WARN]: Dipper moved too quickly! 8118.246036669315,-18.495200877005928,-362.3547439038348
-[19:55:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2932ms behind, skipping 58 tick(s)
-[19:55:51] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
-[19:56:01] [Server thread/INFO]: Dipper fell out of the world
-[19:56:01] [Server thread/INFO]: [Dipper: Killed Dipper]
-[19:56:33] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
-[19:58:03] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.6150406938796,38.0,-212.02466694018824
-[19:58:34] [Server thread/INFO]: Dipper lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:58:34] [Server thread/INFO]: Dipper left the game
-[19:58:36] [Server thread/INFO]: Marcusxt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:58:36] [Server thread/INFO]: Marcusxt left the game
-[20:00:21] [Server thread/WARN]: PequenoInfrator moved too quickly! 0.0,-12.46595849806667,-0.023924237391092618
-[20:00:57] [Server thread/INFO]: PequenoInfrator lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:00:57] [Server thread/INFO]: PequenoInfrator left the game
-[20:39:00] [Server thread/INFO]: Stopping the server
-[20:39:01] [Server thread/INFO]: Stopping server
-[20:39:01] [Server thread/INFO]: Saving players
-[20:39:01] [Server thread/INFO]: Saving worlds
-[20:39:01] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[20:39:01] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[20:39:01] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[20:39:01] [Server Shutdown Thread/INFO]: Stopping server
+[00:05:21] [Server thread/INFO]: [Trepicado: Changing to clear weather]
+[00:06:40] [Server thread/WARN]: Marcusxt moved wrongly!
+[00:24:40] [Server thread/WARN]: PequenoInfrator moved too quickly! -57.036489062272196,-29.0,182.2653081928877
+[00:25:01] [Server thread/INFO]: <Trepicado> 1
+[00:25:05] [Server thread/INFO]: <Trepicado> 3x3
+[00:25:08] [Server thread/INFO]: <Trepicado> 5x5
+[00:25:12] [Server thread/INFO]: <Trepicado> 7x7
+[00:25:15] [Server thread/INFO]: <Trepicado> 9x9
+[00:25:39] [Server thread/WARN]: PequenoInfrator moved too quickly! 101.00166867432412,38.0,-212.1431946797721
+[00:28:40] [Server thread/WARN]: Marcusxt moved wrongly!
+[00:29:58] [Server thread/WARN]: Marcusxt moved wrongly!
+[00:40:16] [Server thread/WARN]: PequenoInfrator moved wrongly!
+[00:44:45] [Server thread/INFO]: PequenoInfrator fell from a high place
+[00:45:54] [Server thread/WARN]: PequenoInfrator moved wrongly!
+[00:46:10] [Server thread/INFO]: Marcusxt fell from a high place
+[00:46:16] [Server thread/INFO]: PequenoInfrator fell out of the world
+[00:46:16] [Server thread/INFO]: [PequenoInfrator: Killed PequenoInfrator]
+[00:47:13] [Server thread/WARN]: Marcusxt moved wrongly!
+[00:48:24] [Server thread/INFO]: Trepicado was shot by Marcusxt
+[00:48:26] [Server thread/INFO]: PequenoInfrator was shot by Marcusxt
+[00:48:37] [Server thread/INFO]: Trepicado was shot by PequenoInfrator
+[00:48:49] [Server thread/INFO]: Marcusxt was shot by PequenoInfrator
+[00:50:35] [Server thread/WARN]: Marcusxt moved too quickly! 48.82553502453179,7.0,-169.00567474209615
+[00:50:50] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.87826678748851,38.0,-211.80000001192093
+[00:51:05] [Server thread/WARN]: Marcusxt moved wrongly!
+[00:51:44] [Server thread/INFO]: Trepicado was shot by Marcusxt
+[00:52:00] [Server thread/WARN]: Marcusxt moved wrongly!
+[00:52:00] [Server thread/WARN]: Marcusxt moved wrongly!
+[00:52:48] [Server thread/INFO]: Trepicado was shot by PequenoInfrator
+[00:54:59] [Server thread/WARN]: Marcusxt moved wrongly!
+[00:55:40] [Server thread/WARN]: PequenoInfrator moved too quickly! -0.4719196515503654,-11.064980402202309,0.9717516201768177
+[00:55:49] [Server thread/INFO]: [Trepicado: Set game difficulty to Peaceful]
+[00:56:01] [Server thread/INFO]: PequenoInfrator fell from a high place
+[00:56:17] [Server thread/WARN]: PequenoInfrator moved too quickly! 101.02211953538006,38.0,-211.95368521213368
+[00:56:23] [Server thread/WARN]: Trepicado moved wrongly!
+[00:56:27] [Server thread/WARN]: Marcusxt moved wrongly!
+[00:56:51] [Server thread/WARN]: Trepicado moved wrongly!
+[01:00:40] [Server thread/INFO]: [Trepicado: Set game difficulty to Hard]
+[01:01:03] [Server thread/WARN]: Marcusxt moved wrongly!
+[01:01:03] [Server thread/WARN]: Marcusxt moved wrongly!
+[01:01:37] [Server thread/INFO]: PequenoInfrator fell from a high place
+[01:01:50] [Server thread/WARN]: PequenoInfrator moved too quickly! 101.03639489001007,38.0,-211.80000001192093
+[01:02:40] [Server thread/INFO]: [Trepicado: Set game difficulty to Peaceful]
+[01:03:14] [Server thread/INFO]: [Trepicado: Set game difficulty to Hard]
+[01:03:25] [Server thread/WARN]: Marcusxt moved wrongly!
+[01:04:18] [Server thread/WARN]: Trepicado moved wrongly!
+[01:05:17] [Server thread/INFO]: Trepicado was burnt to a crisp whilst fighting PequenoInfrator
+[01:06:11] [Server thread/INFO]: Marcusxt was shot by PequenoInfrator
+[01:07:15] [Server thread/INFO]: Trepicado experienced kinetic energy
+[01:08:39] [Server thread/WARN]: PequenoInfrator moved too quickly! -59.46385160522513,-29.0,183.0210721235684
+[01:12:05] [Server thread/WARN]: PequenoInfrator moved wrongly!
+[01:12:53] [Server thread/INFO]: <Trepicado> L
+[01:13:00] [Server thread/INFO]: <Trepicado> DOD
+[01:13:02] [Server thread/INFO]: <Trepicado> OOO
+[01:14:21] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.61787787007151,38.0,-212.1784925137368
+[01:14:48] [Server thread/INFO]: PequenoInfrator fell from a high place
+[01:16:26] [Server thread/WARN]: Marcusxt moved wrongly!
+[01:17:06] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.7814925641764,38.0,-212.11925834851274
+[01:17:49] [Server thread/WARN]: PequenoInfrator moved wrongly!
+[01:20:11] [Server thread/WARN]: PequenoInfrator moved wrongly!
+[01:20:33] [Server thread/WARN]: Trepicado moved wrongly!
+[01:20:41] [Server thread/WARN]: Trepicado moved wrongly!
+[01:24:00] [Server thread/WARN]: Marcusxt moved wrongly!
+[01:24:05] [Server thread/INFO]: Trepicado was shot by Marcusxt
+[01:25:41] [Server thread/INFO]: PequenoInfrator lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:25:41] [Server thread/INFO]: PequenoInfrator left the game
+[01:25:46] [Server thread/INFO]: Trepicado lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:25:46] [Server thread/INFO]: Trepicado left the game
+[01:25:49] [Server thread/INFO]: Stopping the server
+[01:25:49] [Server thread/INFO]: Stopping server
+[01:25:49] [Server thread/INFO]: Saving players
+[01:25:49] [Server thread/INFO]: Marcusxt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:25:49] [Server thread/INFO]: Marcusxt left the game
+[01:25:49] [Server thread/INFO]: Saving worlds
+[01:25:49] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:25:49] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[01:25:49] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[01:25:51] [Server Shutdown Thread/INFO]: Stopping server
+[01:25:51] [Server Shutdown Thread/INFO]: Saving players
+[01:25:51] [Server Shutdown Thread/INFO]: Saving worlds
+[01:25:51] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:25:51] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Nether
+[01:25:51] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/The End
