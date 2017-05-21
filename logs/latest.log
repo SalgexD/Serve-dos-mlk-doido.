@@ -1,83 +1,288 @@
-[00:05:21] [Server thread/INFO]: [Trepicado: Changing to clear weather]
-[00:06:40] [Server thread/WARN]: Marcusxt moved wrongly!
-[00:24:40] [Server thread/WARN]: PequenoInfrator moved too quickly! -57.036489062272196,-29.0,182.2653081928877
-[00:25:01] [Server thread/INFO]: <Trepicado> 1
-[00:25:05] [Server thread/INFO]: <Trepicado> 3x3
-[00:25:08] [Server thread/INFO]: <Trepicado> 5x5
-[00:25:12] [Server thread/INFO]: <Trepicado> 7x7
-[00:25:15] [Server thread/INFO]: <Trepicado> 9x9
-[00:25:39] [Server thread/WARN]: PequenoInfrator moved too quickly! 101.00166867432412,38.0,-212.1431946797721
-[00:28:40] [Server thread/WARN]: Marcusxt moved wrongly!
-[00:29:58] [Server thread/WARN]: Marcusxt moved wrongly!
-[00:40:16] [Server thread/WARN]: PequenoInfrator moved wrongly!
-[00:44:45] [Server thread/INFO]: PequenoInfrator fell from a high place
-[00:45:54] [Server thread/WARN]: PequenoInfrator moved wrongly!
-[00:46:10] [Server thread/INFO]: Marcusxt fell from a high place
-[00:46:16] [Server thread/INFO]: PequenoInfrator fell out of the world
-[00:46:16] [Server thread/INFO]: [PequenoInfrator: Killed PequenoInfrator]
-[00:47:13] [Server thread/WARN]: Marcusxt moved wrongly!
-[00:48:24] [Server thread/INFO]: Trepicado was shot by Marcusxt
-[00:48:26] [Server thread/INFO]: PequenoInfrator was shot by Marcusxt
-[00:48:37] [Server thread/INFO]: Trepicado was shot by PequenoInfrator
-[00:48:49] [Server thread/INFO]: Marcusxt was shot by PequenoInfrator
-[00:50:35] [Server thread/WARN]: Marcusxt moved too quickly! 48.82553502453179,7.0,-169.00567474209615
-[00:50:50] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.87826678748851,38.0,-211.80000001192093
-[00:51:05] [Server thread/WARN]: Marcusxt moved wrongly!
-[00:51:44] [Server thread/INFO]: Trepicado was shot by Marcusxt
-[00:52:00] [Server thread/WARN]: Marcusxt moved wrongly!
-[00:52:00] [Server thread/WARN]: Marcusxt moved wrongly!
-[00:52:48] [Server thread/INFO]: Trepicado was shot by PequenoInfrator
-[00:54:59] [Server thread/WARN]: Marcusxt moved wrongly!
-[00:55:40] [Server thread/WARN]: PequenoInfrator moved too quickly! -0.4719196515503654,-11.064980402202309,0.9717516201768177
-[00:55:49] [Server thread/INFO]: [Trepicado: Set game difficulty to Peaceful]
-[00:56:01] [Server thread/INFO]: PequenoInfrator fell from a high place
-[00:56:17] [Server thread/WARN]: PequenoInfrator moved too quickly! 101.02211953538006,38.0,-211.95368521213368
-[00:56:23] [Server thread/WARN]: Trepicado moved wrongly!
-[00:56:27] [Server thread/WARN]: Marcusxt moved wrongly!
-[00:56:51] [Server thread/WARN]: Trepicado moved wrongly!
-[01:00:40] [Server thread/INFO]: [Trepicado: Set game difficulty to Hard]
-[01:01:03] [Server thread/WARN]: Marcusxt moved wrongly!
-[01:01:03] [Server thread/WARN]: Marcusxt moved wrongly!
-[01:01:37] [Server thread/INFO]: PequenoInfrator fell from a high place
-[01:01:50] [Server thread/WARN]: PequenoInfrator moved too quickly! 101.03639489001007,38.0,-211.80000001192093
-[01:02:40] [Server thread/INFO]: [Trepicado: Set game difficulty to Peaceful]
-[01:03:14] [Server thread/INFO]: [Trepicado: Set game difficulty to Hard]
-[01:03:25] [Server thread/WARN]: Marcusxt moved wrongly!
-[01:04:18] [Server thread/WARN]: Trepicado moved wrongly!
-[01:05:17] [Server thread/INFO]: Trepicado was burnt to a crisp whilst fighting PequenoInfrator
-[01:06:11] [Server thread/INFO]: Marcusxt was shot by PequenoInfrator
-[01:07:15] [Server thread/INFO]: Trepicado experienced kinetic energy
-[01:08:39] [Server thread/WARN]: PequenoInfrator moved too quickly! -59.46385160522513,-29.0,183.0210721235684
-[01:12:05] [Server thread/WARN]: PequenoInfrator moved wrongly!
-[01:12:53] [Server thread/INFO]: <Trepicado> L
-[01:13:00] [Server thread/INFO]: <Trepicado> DOD
-[01:13:02] [Server thread/INFO]: <Trepicado> OOO
-[01:14:21] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.61787787007151,38.0,-212.1784925137368
-[01:14:48] [Server thread/INFO]: PequenoInfrator fell from a high place
-[01:16:26] [Server thread/WARN]: Marcusxt moved wrongly!
-[01:17:06] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.7814925641764,38.0,-212.11925834851274
-[01:17:49] [Server thread/WARN]: PequenoInfrator moved wrongly!
-[01:20:11] [Server thread/WARN]: PequenoInfrator moved wrongly!
-[01:20:33] [Server thread/WARN]: Trepicado moved wrongly!
-[01:20:41] [Server thread/WARN]: Trepicado moved wrongly!
-[01:24:00] [Server thread/WARN]: Marcusxt moved wrongly!
-[01:24:05] [Server thread/INFO]: Trepicado was shot by Marcusxt
-[01:25:41] [Server thread/INFO]: PequenoInfrator lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:25:41] [Server thread/INFO]: PequenoInfrator left the game
-[01:25:46] [Server thread/INFO]: Trepicado lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:25:46] [Server thread/INFO]: Trepicado left the game
-[01:25:49] [Server thread/INFO]: Stopping the server
-[01:25:49] [Server thread/INFO]: Stopping server
-[01:25:49] [Server thread/INFO]: Saving players
-[01:25:49] [Server thread/INFO]: Marcusxt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:25:49] [Server thread/INFO]: Marcusxt left the game
-[01:25:49] [Server thread/INFO]: Saving worlds
-[01:25:49] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[01:25:49] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[01:25:49] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[01:25:51] [Server Shutdown Thread/INFO]: Stopping server
-[01:25:51] [Server Shutdown Thread/INFO]: Saving players
-[01:25:51] [Server Shutdown Thread/INFO]: Saving worlds
-[01:25:51] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
-[01:25:51] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Nether
-[01:25:51] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/The End
+[11:49:45] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[11:49:45] [Server thread/INFO]: Loading properties
+[11:49:45] [Server thread/INFO]: Default game type: SURVIVAL
+[11:49:45] [Server thread/INFO]: Generating keypair
+[11:49:45] [Server thread/INFO]: Starting Minecraft server on 192.168.0.5:25565
+[11:49:45] [Server thread/INFO]: Using default channel type
+[11:49:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:49:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:49:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:49:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:49:46] [Server thread/INFO]: Preparing level "world"
+[11:49:46] [Server thread/INFO]: Preparing start region for level 0
+[11:49:47] [Server thread/INFO]: Preparing spawn area: 0%
+[11:49:48] [Server thread/INFO]: Preparing spawn area: 52%
+[11:49:49] [Server thread/INFO]: Done (3,239s)! For help, type "help" or "?"
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:49:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:52:24] [Server thread/INFO]: Marcusxt[/187.62.193.171:51429] logged in with entity id 272 at (-10.32521614387067, 184.5, 51.117384376048065)
+[11:52:25] [Server thread/INFO]: Marcusxt joined the game
+[11:55:28] [Server thread/WARN]: Marcusxt moved wrongly!
+[11:56:05] [Server thread/WARN]: Marcusxt moved wrongly!
+[11:56:05] [Server thread/WARN]: Marcusxt moved wrongly!
+[11:56:38] [Server thread/WARN]: Marcusxt moved wrongly!
+[11:57:26] [Server thread/WARN]: Marcusxt moved wrongly!
+[11:57:52] [Server thread/WARN]: Marcusxt moved wrongly!
+[11:59:14] [Server thread/WARN]: Marcusxt moved wrongly!
+[11:59:14] [Server thread/WARN]: Marcusxt moved wrongly!
+[11:59:20] [Server thread/WARN]: Marcusxt moved wrongly!
+[11:59:21] [Server thread/WARN]: Marcusxt moved wrongly!
+[11:59:44] [Server thread/WARN]: Marcusxt moved wrongly!
+[11:59:57] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:00:20] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:00:20] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:01:45] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:02:12] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:03:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11663ms behind, skipping 233 tick(s)
+[12:03:43] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:04:22] [Server thread/INFO]: PequenoInfrator[/177.191.195.213:51694] logged in with entity id 19113 at (-108.69999998807907, 188.0, 269.41309812688195)
+[12:04:22] [Server thread/INFO]: PequenoInfrator joined the game
+[12:05:18] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.43231750505699,38.0,-212.64680595537112
+[12:06:03] [Server thread/INFO]: Trepicado[/179.104.158.18:52566] logged in with entity id 47943 at (-96.76227584558079, 11.0, 239.95629253381102)
+[12:06:03] [Server thread/INFO]: Trepicado joined the game
+[12:06:29] [Server thread/WARN]: PequenoInfrator moved too quickly! 0.06972051849393601,-11.798174230684253,0.0
+[12:06:39] [Server thread/INFO]: <Trepicado> -97 247
+[12:07:52] [Server thread/WARN]: PequenoInfrator moved too quickly! -57.92503004926084,-29.0,182.43413929336037
+[12:10:19] [Server thread/WARN]: Marcusxt moved too quickly! 101.084066140464,38.0,-212.18914226417866
+[12:10:20] [Server thread/INFO]: Trepicado lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:10:20] [Server thread/INFO]: Trepicado left the game
+[12:12:00] [Server thread/WARN]: Marcusxt moved too quickly! -0.21904071703895145,-10.287592896255177,1.227858883257646
+[12:12:07] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:12:15] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:12:55] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:12:55] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:13:26] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:14:28] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:14:29] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:15:19] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:15:55] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:16:01] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:17:54] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:19:28] [Server thread/INFO]: Marcusxt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:19:28] [Server thread/INFO]: Marcusxt left the game
+[12:23:16] [Server thread/INFO]: PequenoInfrator lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:23:16] [Server thread/INFO]: PequenoInfrator left the game
+[12:27:59] [Server thread/INFO]: Marcusxt[/187.62.193.171:51526] logged in with entity id 126299 at (-10.687941515403809, 184.5, 43.92944758209647)
+[12:27:59] [Server thread/INFO]: Marcusxt joined the game
+[12:28:54] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:29:06] [Server thread/INFO]: Trepicado[/179.104.158.18:53206] logged in with entity id 128826 at (-99.64628795984295, 67.0, 234.9818181907905)
+[12:29:06] [Server thread/INFO]: Trepicado joined the game
+[12:29:28] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:29:40] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:30:12] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:30:48] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:30:48] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:33:31] [Server thread/INFO]: Marcusxt fell from a high place
+[12:33:54] [Server thread/WARN]: Marcusxt moved too quickly! 100.76137691366544,38.0,-212.00266102558723
+[12:36:37] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:36:54] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:37:06] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:37:26] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:37:26] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:38:46] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:39:29] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:41:06] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:44:04] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:45:24] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:45:55] [Server thread/INFO]: Trepicado fell from a high place
+[12:47:09] [Server thread/INFO]: Trepicado fell from a high place
+[12:47:43] [Server thread/INFO]: <Trepicado> -98 249
+[12:48:13] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:52:21] [Server thread/INFO]: <Marcusxt> ?
+[12:53:06] [Server thread/WARN]: Marcusxt moved wrongly!
+[12:58:22] [Server thread/INFO]: Izulift[/177.87.11.174:27538] logged in with entity id 463895 at (-96.5, 48.099998474121094, 251.5)
+[12:58:22] [Server thread/INFO]: Izulift joined the game
+[12:58:50] [Server thread/INFO]: <Izulift> ping ta como
+[12:58:59] [Server thread/INFO]: Izulift was slain by Zombie Pigman
+[12:59:33] [Server thread/INFO]: Izulift was slain by Zombie
+[13:00:44] [Server thread/INFO]: Izulift was slain by Zombie
+[13:01:18] [Server thread/WARN]: Fetching addPacket for removed entity
+[13:01:41] [Server thread/INFO]: PequenoInfrator[/177.191.195.213:52617] logged in with entity id 475923 at (331.4453466474141, 64.5, 527.7182571621673)
+[13:01:41] [Server thread/INFO]: PequenoInfrator joined the game
+[13:01:46] [Server thread/INFO]: [Izulift: Teleported Izulift to Trepicado]
+[13:02:22] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.85618602690205,38.0,-212.44045654875927
+[13:02:33] [Server thread/INFO]: Izulift fell from a high place
+[13:02:43] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:04:03] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:04:40] [Server thread/WARN]: Marcusxt moved too quickly! -2.929531904937752,-4.8336406662303375,8.848299375572331
+[13:04:51] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:05:14] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:05:44] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:05:53] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:09:02] [Server thread/INFO]: Izulift fell out of the world
+[13:09:02] [Server thread/INFO]: [Izulift: Killed Izulift]
+[13:09:08] [Server thread/INFO]: Trepicado fell from a high place
+[13:10:05] [Server thread/INFO]: Izulift fell from a high place
+[13:12:30] [Server thread/INFO]: [Izulift: Teleported Izulift to Marcusxt]
+[13:14:23] [Server thread/WARN]: Trepicado moved too quickly! 0.24171114977824004,-15.059526495005969,-1.6918053414399026
+[13:14:24] [Server thread/WARN]: PequenoInfrator moved too quickly! -57.08422096507745,-29.0,182.37343811741047
+[13:14:25] [Server thread/INFO]: Trepicado fell from a high place
+[13:15:29] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:15:30] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:16:32] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.81885572849639,38.0,-212.19999998807907
+[13:16:44] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:17:00] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:18:28] [Server thread/INFO]: [PequenoInfrator: Set own game mode to Creative Mode]
+[13:18:42] [Server thread/INFO]: [PequenoInfrator: Set own game mode to Survival Mode]
+[13:19:00] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:19:20] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:23:01] [Server thread/WARN]: Trepicado moved wrongly!
+[13:25:09] [Server thread/WARN]: Trepicado moved too quickly! -0.160216088188065,-12.491188717510425,-6.983434167281814
+[13:29:42] [Server thread/WARN]: PequenoInfrator moved wrongly!
+[13:31:34] [Server thread/WARN]: PequenoInfrator moved wrongly!
+[13:32:26] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:32:41] [Server thread/WARN]: PequenoInfrator moved wrongly!
+[13:36:57] [Server thread/INFO]: Izulift fell out of the world
+[13:36:57] [Server thread/INFO]: [Izulift: Killed Izulift]
+[13:38:21] [Server thread/INFO]: Trepicado was burnt to a crisp whilst fighting PequenoInfrator
+[13:39:50] [Server thread/INFO]: Dipper[/177.191.195.213:61239] logged in with entity id 695869 at (-108.11327522598192, 188.0, 269.02737315818683)
+[13:39:50] [Server thread/INFO]: Dipper joined the game
+[13:39:54] [Server thread/INFO]: Izulift fell out of the world
+[13:39:54] [Server thread/INFO]: [Izulift: Killed Izulift]
+[13:40:57] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:41:37] [Server thread/WARN]: Trepicado moved wrongly!
+[13:41:52] [Server thread/WARN]: Fetching addPacket for removed entity
+[13:42:15] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
+[13:42:40] [Server thread/WARN]: Izulift moved too quickly! -0.9775984496614853,-16.148960514787603,-1.284201211990478
+[13:42:42] [Server thread/INFO]: Izulift fell from a high place
+[13:42:53] [Server thread/INFO]: Dipper was burnt to a crisp whilst fighting PequenoInfrator
+[13:43:08] [Server thread/WARN]: Fetching addPacket for removed entity
+[13:43:11] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
+[13:43:20] [Server thread/INFO]: PequenoInfrator fell from a high place
+[13:43:29] [Server thread/INFO]: [Izulift: Teleported Izulift to Marcusxt]
+[13:43:36] [Server thread/WARN]: Fetching addPacket for removed entity
+[13:43:42] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
+[13:44:17] [Server thread/INFO]: PequenoInfrator was shot by Dipper
+[13:44:24] [Server thread/INFO]: Dipper fell out of the world
+[13:44:24] [Server thread/INFO]: [PequenoInfrator: Killed Dipper]
+[13:44:37] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.21081374232182,38.0,-212.19999998807907
+[13:44:38] [Server thread/INFO]: Dipper fell out of the world
+[13:44:38] [Server thread/INFO]: [PequenoInfrator: Killed Dipper]
+[13:44:39] [Server thread/INFO]: [PequenoInfrator: Teleported PequenoInfrator to Marcusxt]
+[13:44:53] [Server thread/WARN]: Dipper moved too quickly! 101.32217960042036,38.0,-212.05601758541417
+[13:44:55] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
+[13:45:06] [Server thread/WARN]: Dipper moved wrongly!
+[13:45:48] [Server thread/INFO]: Trepicado was slain by Zombie Pigman
+[13:46:07] [Server thread/INFO]: Dipper was shot by Marcusxt
+[13:46:25] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
+[13:48:00] [Server thread/WARN]: PequenoInfrator moved wrongly!
+[13:48:15] [Server thread/INFO]: Izulift was burnt to a crisp whilst fighting Dipper
+[13:48:19] [Server thread/INFO]: Dipper fell out of the world
+[13:48:19] [Server thread/INFO]: [Izulift: Killed Dipper]
+[13:48:25] [Server thread/INFO]: Izulift fell out of the world
+[13:48:25] [Server thread/INFO]: [Dipper: Killed Izulift]
+[13:48:36] [Server thread/WARN]: Dipper moved too quickly! 101.0,38.0,-211.80000001192093
+[13:48:38] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
+[13:48:50] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
+[13:48:55] [Server thread/INFO]: Dipper was burnt to a crisp whilst fighting PequenoInfrator
+[13:49:02] [Server thread/INFO]: Izulift was slain by Zombie Pigman
+[13:49:19] [Server thread/WARN]: Dipper moved too quickly! 100.16819270269988,38.0,-212.81478672073797
+[13:49:21] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
+[13:49:23] [Server thread/INFO]: Dipper was slain by PequenoInfrator
+[13:49:26] [Server thread/WARN]: Fetching addPacket for removed entity
+[13:49:35] [Server thread/INFO]: Izulift was slain by Zombie Pigman
+[13:49:48] [Server thread/WARN]: Dipper moved too quickly! 101.03185574262292,38.0,-212.07295472606174
+[13:49:57] [Server thread/INFO]: Dipper was slain by Zombie Pigman
+[13:50:00] [Server thread/WARN]: PequenoInfrator moved too quickly! 0.0,-11.842011517166327,0.0
+[13:50:19] [Server thread/INFO]: Dipper was slain by Zombie Pigman
+[13:50:19] [Server thread/INFO]: [Izulift: Teleported Izulift to Marcusxt]
+[13:50:34] [Server thread/INFO]: Dipper was slain by Zombie Pigman
+[13:50:49] [Server thread/INFO]: Dipper was slain by Zombie Pigman
+[13:51:10] [Server thread/INFO]: [Dipper: Teleported Dipper to PequenoInfrator]
+[13:51:26] [Server thread/WARN]: Marcusxt moved wrongly!
+[13:52:19] [Server thread/INFO]: [PequenoInfrator: Set own game mode to Creative Mode]
+[13:52:29] [Server thread/INFO]: [PequenoInfrator: Set own game mode to Survival Mode]
+[13:53:03] [Server thread/INFO]: Dipper was slain by PequenoInfrator
+[13:53:10] [Server thread/INFO]: PequenoInfrator fell out of the world
+[13:53:10] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
+[13:53:17] [Server thread/INFO]: Dipper fell out of the world
+[13:53:17] [Server thread/INFO]: [PequenoInfrator: Killed Dipper]
+[13:53:20] [Server thread/WARN]: Fetching addPacket for removed entity
+[13:53:21] [Server thread/WARN]: Dipper moved too quickly! 107.01250001043081,0.0,-221.55775112438857
+[13:53:31] [Server thread/INFO]: Trepicado fell from a high place
+[13:53:33] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.78021230363018,38.0,-212.05255369981808
+[13:53:36] [Server thread/WARN]: Dipper moved too quickly! 99.68077672522284,38.0,-213.1192232866981
+[13:55:42] [Server thread/INFO]: Dipper was shot by PequenoInfrator
+[13:55:53] [Server thread/INFO]: PequenoInfrator fell out of the world
+[13:55:53] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
+[13:56:00] [Server thread/INFO]: [PequenoInfrator: Kicked Dipper from the game]
+[13:56:00] [Server thread/INFO]: Dipper lost connection: TextComponent{text='Kicked by an operator.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:56:00] [Server thread/INFO]: Dipper left the game
+[13:56:07] [Server thread/INFO]: Dipper[/177.191.195.213:62399] logged in with entity id 794446 at (-78.90826080036393, 64.00133597911214, 260.02487425508014)
+[13:56:07] [Server thread/INFO]: Dipper joined the game
+[13:56:18] [Server thread/INFO]: PequenoInfrator fell out of the world
+[13:56:18] [Server thread/INFO]: [Dipper: Killed PequenoInfrator]
+[13:56:20] [Server thread/INFO]: [PequenoInfrator: Kicked Dipper from the game]
+[13:56:20] [Server thread/INFO]: Dipper lost connection: TextComponent{text='Kicked by an operator.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:56:20] [Server thread/INFO]: Dipper left the game
+[13:56:22] [Server thread/INFO]: Dipper[/177.191.195.213:62417] logged in with entity id 795362 at (-75.3872243219774, 65.16610926093821, 237.92579959520526)
+[13:56:22] [Server thread/INFO]: Dipper joined the game
+[13:56:39] [Server thread/WARN]: PequenoInfrator moved too quickly! 100.53642150567264,38.0,-212.06852326319733
+[13:57:14] [Server thread/INFO]: [Dipper: Teleported Dipper to Trepicado]
+[13:57:17] [Server thread/INFO]: [Dipper: Teleported Dipper to Trepicado]
+[13:57:20] [Server thread/INFO]: Dipper was slain by Trepicado
+[13:57:29] [Server thread/INFO]: [Trepicado: De-opped Dipper]
+[13:58:29] [Server thread/WARN]: Trepicado moved wrongly!
+[13:59:29] [Server thread/INFO]: <Marcusxt> quem leu é into
+[13:59:31] [Server thread/INFO]: <Marcusxt> pinto
+[13:59:56] [Server thread/INFO]: Trepicado was slain by Marcusxt
+[14:00:09] [Server thread/WARN]: Marcusxt moved wrongly!
+[14:00:37] [Server thread/WARN]: Marcusxt moved wrongly!
+[14:01:33] [Server thread/WARN]: Marcusxt moved wrongly!
+[14:02:16] [Server thread/INFO]: Dipper was slain by Marcusxt
+[14:02:23] [Server thread/WARN]: Fetching addPacket for removed entity
+[14:02:41] [Server thread/WARN]: Fetching addPacket for removed entity
+[14:02:56] [Server thread/WARN]: Izulift moved wrongly!
+[14:05:25] [Server thread/INFO]: [Izulift: Teleported Izulift to Dipper]
+[14:05:53] [Server thread/WARN]: PequenoInfrator moved too quickly! -58.32007768486223,-29.0,182.42919850396498
+[14:06:43] [Server thread/WARN]: Dipper moved too quickly! -58.275418163467606,-29.0,182.70754827172576
+[14:06:49] [Server thread/INFO]: Dipper fell from a high place
+[14:09:42] [Server thread/INFO]: Izulift fell out of the world
+[14:09:42] [Server thread/INFO]: [Izulift: Killed Izulift]
+[14:09:59] [Server thread/WARN]: Trepicado moved wrongly!
+[14:11:59] [Server thread/INFO]: Dipper burned to death
+[14:13:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2744ms behind, skipping 54 tick(s)
+[14:13:22] [Server thread/INFO]: Izulift experienced kinetic energy
+[14:13:41] [Server thread/INFO]: <Trepicado> TP É O KRL
+[14:13:47] [Server thread/INFO]: <Trepicado> ELITRO
+[14:13:51] [Server thread/INFO]: Trepicado fell out of the world
+[14:13:51] [Server thread/INFO]: [Izulift: Killed Trepicado]
+[14:14:01] [Server thread/INFO]: [Trepicado: De-opped Izulift]
+[14:14:01] [Server thread/WARN]: Izulift moved too quickly! 100.3396878564816,38.0,-212.62949302833542
+[14:14:04] [Server thread/INFO]: PequenoInfrator lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:14:04] [Server thread/INFO]: PequenoInfrator left the game
+[14:14:20] [Server thread/INFO]: Stopping the server
+[14:14:20] [Server thread/INFO]: Stopping server
+[14:14:20] [Server thread/INFO]: Saving players
+[14:14:20] [Server thread/INFO]: Marcusxt lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.lang.StackOverflowError], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:14:20] [Server thread/INFO]: Marcusxt left the game
+[14:14:20] [Server thread/INFO]: Trepicado lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.lang.StackOverflowError], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:14:20] [Server thread/INFO]: Trepicado left the game
+[14:14:20] [Server thread/INFO]: Saving worlds
+[14:14:20] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[14:14:20] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[14:14:20] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[14:14:22] [Server Shutdown Thread/INFO]: Stopping server
+[14:14:22] [Server Shutdown Thread/INFO]: Saving players
